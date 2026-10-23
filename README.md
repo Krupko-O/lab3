@@ -1,4 +1,5 @@
-<img width="887" height="865" alt="lab3 код(1)" src="https://github.com/user-attachments/assets/1745c7fb-6d45-4670-9acc-828c0261e2d8" />
-<img width="902" height="927" alt="lab3 код(2)" src="https://github.com/user-attachments/assets/afcc1324-b8f8-48a6-a48d-14cfad913696" />
-<img width="997" height="455" alt="lab3 код(3)" src="https://github.com/user-attachments/assets/d315d733-5b2d-4ed1-863a-8a4474676c2b" />
-<img width="661" height="818" alt="lab3 результат кода" src="https://github.com/user-attachments/assets/ee0c9425-cc19-4dda-8cee-a4041800baa5" />
+<img width="874" height="860" alt="lab3 код(1)" src="https://github.com/user-attachments/assets/7fc5a85c-ebaa-4560-9e5e-a03a984b76bf" />
+<img width="913" height="902" alt="lab3 код(2)" src="https://github.com/user-attachments/assets/9f879a93-5822-42f0-8ea7-6f0460a25a3b" />
+<img width="1000" height="512" alt="lab3 код(3)" src="https://github.com/user-attachments/assets/b7b4a3dc-f353-4fd6-8d41-44ebcd0e2be2" />
+<img width="554" height="541" alt="lab3 результат кода1" src="https://github.com/user-attachments/assets/04f15bcc-235d-4705-b03b-068d68d817cf" />
+<img width="653" height="840" alt="lab3 результат кода2" src="https://github.com/user-attachments/assets/5a29371f-a348-4e63-8d68-37193b513a87" />
